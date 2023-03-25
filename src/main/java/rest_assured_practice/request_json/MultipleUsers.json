@@ -1,0 +1,97 @@
+[
+  {
+    "email": "Test_3@gmail.com",
+    "firstName": "Test_3",
+    "lastName": "Three",
+    "age": 30,
+    "address": {
+      "flatNo": 3,
+      "street": "fjdabf 3333",
+      "abc": [
+        {
+          "district": "Gurgaon",
+          "pin": 122003
+        },
+        {
+          "district": "Delhi",
+          "pin": 122013
+        }
+      ]
+    },
+    "mobile": [
+      9992345456,
+      3452134568
+    ]
+  },
+  {
+    "email": "Test_4@gmail.com",
+    "firstName": "Test_4",
+    "lastName": "Four",
+    "age": 40,
+    "address": {
+      "flatNo": 4,
+      "street": "fjdabf 4444",
+      "abc": [
+        {
+          "district": "Gurgaon",
+          "pin": 122003
+        },
+        {
+          "district": "Delhi",
+          "pin": 122013
+        }
+      ]
+    },
+    "mobile": [
+      9995456000,
+      9345234568
+    ]
+  },
+  {
+    "email": "Test_5@gmail.com",
+    "firstName": "Test_5",
+    "lastName": "Five",
+    "age": 40,
+    "address": {
+      "flatNo": 4,
+      "street": "fjdabf 5555",
+      "abc": [
+        {
+          "district": "Gurgaon",
+          "pin": 122003
+        },
+        {
+          "district": "Delhi",
+          "pin": 122013
+        }
+      ]
+    },
+    "mobile": [
+      9995456000,
+      9345234568
+    ]
+  },
+  {
+    "email": "Test_6@gmail.com",
+    "firstName": "Test_6",
+    "lastName": "Six",
+    "age": 40,
+    "address": {
+      "flatNo": 4,
+      "street": "fjdabf 6666",
+      "abc": [
+        {
+          "district": "Gurgaon",
+          "pin": 122003
+        },
+        {
+          "district": "Delhi",
+          "pin": 122013
+        }
+      ]
+    },
+    "mobile": [
+      9995456000
+    ]
+  }
+]

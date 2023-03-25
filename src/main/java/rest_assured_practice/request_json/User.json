@@ -1,0 +1,16 @@
+{
+	"email":"Test_3@gmail.com",
+	"firstName":"Test_3",
+	"lastName":"Three",
+	"age":30,
+	"address":
+	{
+		"flatNo": 3,
+		"street": "fjdabf 3333",
+		"abc":
+		{
+			"district": "Gurgaon",
+			"pin": 122001
+		}
+	}
+}
